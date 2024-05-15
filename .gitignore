@@ -1,0 +1,13 @@
+export_model/*
+model_detail/*
+golden/*
+input_weight/*
+error/*
+executorch/*
+.ipynb_checkpoints/*
+jupyter.*
+pte_out/*
+*.pte
+diff/*
+executorch_out/*
+executorch/*
